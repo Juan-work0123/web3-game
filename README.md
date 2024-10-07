@@ -9,10 +9,6 @@ This is an engaging and interactive card battle game built on the MERN stack (Mo
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
 
-Visit the SuiFrenia here
-<a href="https://suifrenia.netlify.app/">[![Live Demo](https://img.shields.io/badge/Live%20Demo-View%20Here-green)]</a>
-
-
 ## Features
 
 - **Card Evolution**: Evolve your cards to become more powerful and unlock new abilities.
@@ -54,7 +50,7 @@ Currently, two official plugins are available:
 ```
 
 ```
-# npm install --legacy-peer-deps
+# npm install
 ```
 
 3) After installing modules, type 'npm run dev' and hit ENTER to run project.
